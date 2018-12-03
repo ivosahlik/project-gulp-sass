@@ -1,0 +1,24 @@
+{
+  "name": "project-gulp-sass",
+  "version": "1.0.0",
+  "description": "## install gulp npm install -g gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivosahlik/project-gulp-sass.git"
+  },
+  "keywords": [
+    "npm",
+    "gulp",
+    "sass"
+  ],
+  "author": "Ivo Vošahlík",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivosahlik/project-gulp-sass/issues"
+  },
+  "homepage": "https://github.com/ivosahlik/project-gulp-sass#readme"
+}
